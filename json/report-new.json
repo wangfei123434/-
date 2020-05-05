@@ -1,0 +1,49 @@
+{
+	"mylis":[
+		{
+			"myImg":"images/bg1.jpg",
+			"myP1text":"空气净化器里面学问多得惊呆你，你选对了吗？",
+			"myP2text":"关于格林威特空气净化器还有4篇报告，点击查看",
+			"myLike": 1,
+			"myComment": 1,
+			"mtTime":"2020-01-25",
+			"susu":"苏苏1号"
+		},
+		{
+			"myImg":"images/bg2.jpg",
+			"myP1text":"云马智行车C1小巧清新，简介流畅的线条为城市骑行增添一抹亮丽色彩",
+			"myP2text":"关于云马智行车C1还有8篇报告，点击查看",
+			"myLike": 2,
+			"myComment": 2,
+			"mtTime":"2019-01-25",
+			"susu":"苏苏2号"
+		},
+		{
+			"myImg":"images/bg3.jpg",
+			"myP1text":"怎么骑都不会累的智能自行车：云马C1试骑体验",
+			"myP2text":"关于云马智行车C1还有7篇报告，点击查看",
+			"myLike": 3,
+			"myComment": 3,
+			"mtTime":"2018-01-25",
+			"susu":"苏苏3号"
+		},
+		{
+			"myImg":"images/bg4.jpg",
+			"myP1text":"声音不是最优秀，但它形音完美的结合，足够打动人心",
+			"myP2text":"关于Freeson智能实木音箱还有17篇报告，点击查看",
+			"myLike": 4,
+			"myComment": 4,
+			"mtTime":"2017-01-25",
+			"susu":"苏苏4号"
+		},
+		{
+			"myImg":"images/bg1.jpg",
+			"myP1text":"内在与颜值并重，MO智能体质分析仪解开妮的身体密码",
+			"myP2text":"关于MO智能体质分析仪还有17篇报告，点击查看",
+			"myLike": 5,
+			"myComment": 5,
+			"mtTime":"2016-01-25",
+			"susu":"苏苏5号"
+		}
+	]
+}

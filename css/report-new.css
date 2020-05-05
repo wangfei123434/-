@@ -1,0 +1,123 @@
+.mybox {
+  margin-top: 50px;
+}
+.mybox .mybox-top h5 {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 25px;
+}
+.mybox .mybox-top p {
+  text-align: center;
+  color: #a3a3a3;
+  font-size: 15px;
+}
+.mybox .mybox-top p a {
+  display: inline-block;
+  width: 150px;
+  padding: 5px 0;
+  cursor: pointer;
+  color: #ccc;
+}
+.mybox .mybox-top p .sapnActive {
+  color: red;
+  border-bottom: 3px solid red;
+}
+.mybox .mybox-bottom {
+  background: #f7f7f7;
+  padding-bottom: 30px;
+}
+.mybox .mybox-bottom .mydiv {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  padding-top: 20px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li {
+  margin-bottom: 20px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a {
+  display: block;
+  position: relative;
+  cursor: pointer;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a:hover .myImg {
+  animation: mymove 0.8s infinite;
+}
+@keyframes mymove {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.7;
+  }
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .myImg {
+  width: 100%;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .bg-opacity {
+  position: absolute;
+  bottom: 4px;
+  background: #fff;
+  width: 100%;
+  opacity: 0.9;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .bg-opacity p {
+  margin: 20px ;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .bg-opacity p #left i {
+  color: red;
+  margin-right: 10px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .bg-opacity p #right {
+  float: right;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .bg-opacity p:first-child {
+  font-size: 18px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .bg-opacity p:last-child {
+  font-size: 13px;
+  color: #9d9996;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li a .bg-opacity p:last-child .like {
+  margin-right: 5px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-left li .pText {
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+  color: gray;
+  font-size: 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.mybox .mybox-bottom .mydiv .mydiv-right {
+  margin-left: 50px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-right li {
+  font-size: 14px;
+  color: gray;
+  width: 270px;
+  margin-bottom: 10px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-right li a {
+  display: block;
+}
+.mybox .mybox-bottom .mydiv .mydiv-right li span {
+  display: inline-block;
+  height: 20px;
+  width: 4px;
+  background: red;
+  margin-right: 20px;
+  vertical-align: sub;
+}
+.mybox .mybox-bottom .mydiv .mydiv-right h4 {
+  margin-bottom: 10px;
+}
+.mybox .mybox-bottom .mydiv .mydiv-right .title {
+  color: black;
+  font-size: 18px;
+}
+.mybox .mybox-bottom .load {
+  text-align: center;
+}

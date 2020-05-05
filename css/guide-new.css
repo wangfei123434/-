@@ -1,0 +1,108 @@
+.mybox {
+  margin-top: 50px;
+}
+.mybox .mybox-top h5 {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 25px;
+}
+.mybox .mybox-top p {
+  text-align: center;
+  color: #a3a3a3;
+  font-size: 15px;
+}
+.mybox .mybox-top p a {
+  display: inline-block;
+  width: 150px;
+  padding: 5px 0;
+  cursor: pointer;
+  color: #ccc;
+}
+.mybox .mybox-top p .sapnActive {
+  color: red;
+  border-bottom: 3px solid red;
+}
+.mybox .mybox-bottom {
+  background: #f7f7f7;
+  padding-bottom: 30px;
+}
+.mybox .mybox-bottom ul {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.mybox .mybox-bottom ul li {
+  width: 228px;
+  margin-left: 20px;
+  border-radius: 5px;
+  background: #fff;
+  border: 1px solid #eaeceb;
+  position: relative;
+  margin-top: 25px;
+}
+.mybox .mybox-bottom ul li:hover img {
+  animation: mymove 0.8s infinite;
+}
+@keyframes mymove {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.7;
+  }
+}
+.mybox .mybox-bottom ul li a {
+  display: block;
+}
+.mybox .mybox-bottom ul li a img {
+  opacity: 1;
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+.mybox .mybox-bottom ul li .text {
+  padding: 7px;
+  font-size: 14px;
+  color: gray;
+  height: 40px;
+}
+.mybox .mybox-bottom ul li .lc {
+  padding-right: 15px;
+  overflow: hidden;
+}
+.mybox .mybox-bottom ul li .lc span {
+  float: right;
+  font-size: 12px;
+  color: #9d9996;
+}
+.mybox .mybox-bottom ul li .lc span .like {
+  margin-right: 5px;
+}
+.mybox .mybox-bottom ul li #myp1,
+.mybox .mybox-bottom ul li #myp2 {
+  height: 3px;
+  border: 1px solid #eef0ef;
+  position: absolute;
+  border-radius: 11px;
+  background: #fff;
+}
+.mybox .mybox-bottom ul li #myp1 {
+  width: 215px;
+  bottom: -5px;
+  margin-left: 5px;
+}
+.mybox .mybox-bottom ul li #myp2 {
+  width: 205px;
+  bottom: -10px;
+  margin-left: 10px;
+}
+.mybox .mybox-bottom .load {
+  text-align: center;
+  margin-top: 40px;
+  color: red;
+  font-size: 13px;
+}
+.mybox .mybox-bottom .load img {
+  vertical-align: middle;
+  width: 12px;
+}

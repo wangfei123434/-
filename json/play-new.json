@@ -1,0 +1,134 @@
+{
+	"myList":[
+		{
+			"myImg":"images/k1.jpg",
+			"myP1text":"SCiO 微型光谱仪-1",
+			"myP2text":"可以测定食物成分及营养-1",
+			"myprice":111,
+			"myLike": 1,
+			"myComment": 1
+		},
+		{
+			"myImg":"images/k2.jpg",
+			"myP1text":"B&O BeoSound 35音箱-1",
+			"myP2text":"支持所有音乐流媒体服务-1",
+			"myprice":222,
+			"myLike": 2,
+			"myComment": 2
+		},
+		{
+			"myImg":"images/k3.jpg",
+			"myP1text":"Mozbii 触控吸色笔-1",
+			"myP2text":"能吸取65000种颜色-1",
+			"myprice":333,
+			"myLike": 3,
+			"myComment": 3
+		},
+		{
+			"myImg":"images/k4.jpg",
+			"myP1text":"XPLORER 2 航拍飞行器-1",
+			"myP2text":"打在自动避障系统-1",
+			"myprice":444,
+			"myLike": 4,
+			"myComment": 4
+		},
+		{
+			"myImg":"images/k1.jpg",
+			"myP1text":"SCiO 微型光谱仪-2",
+			"myP2text":"可以测定食物成分及营养-2",
+			"myprice":555,
+			"myLike": 5,
+			"myComment": 5
+		},
+		{
+			"myImg":"images/k2.jpg",
+			"myP1text":"B&O BeoSound 35音箱-2",
+			"myP2text":"支持所有音乐流媒体服务-2",
+			"myprice":666,
+			"myLike": 6,
+			"myComment": 6
+		},
+		{
+			"myImg":"images/k3.jpg",
+			"myP1text":"Mozbii 触控吸色笔-2",
+			"myP2text":"能吸取65000种颜色-2",
+			"myprice":777,
+			"myLike": 7,
+			"myComment": 7
+		},
+		{
+			"myImg":"images/k4.jpg",
+			"myP1text":"XPLORER 2 航拍飞行器-2",
+			"myP2text":"打在自动避障系统-2",
+			"myprice":888,
+			"myLike": 8,
+			"myComment": 8
+		},
+		{
+			"myImg":"images/k1.jpg",
+			"myP1text":"SCiO 微型光谱仪-3",
+			"myP2text":"可以测定食物成分及营养-3",
+			"myprice":999,
+			"myLike": 9,
+			"myComment": 9
+		},
+		{
+			"myImg":"images/k2.jpg",
+			"myP1text":"B&O BeoSound 35音箱-3",
+			"myP2text":"支持所有音乐流媒体服务-3",
+			"myprice":1010,
+			"myLike": 10,
+			"myComment": 10
+		},
+		{
+			"myImg":"images/k3.jpg",
+			"myP1text":"Mozbii 触控吸色笔-3",
+			"myP2text":"能吸取65000种颜色-3",
+			"myprice":1111,
+			"myLike": 11,
+			"myComment": 11
+		},
+		{
+			"myImg":"images/k4.jpg",
+			"myP1text":"XPLORER 2 航拍飞行器-3",
+			"myP2text":"打在自动避障系统-3",
+			"myprice":1212,
+			"myLike": 12,
+			"myComment": 12
+		},
+		{
+			"myImg":"images/k1.jpg",
+			"myP1text":"SCiO 微型光谱仪-4",
+			"myP2text":"可以测定食物成分及营养-4",
+			"myprice":1313,
+			"myLike": 13,
+			"myComment": 13
+		},
+		{
+			"myImg":"images/k2.jpg",
+			"myP1text":"B&O BeoSound 35音箱-4",
+			"myP2text":"支持所有音乐流媒体服务-4",
+			"myprice":1414,
+			"myLike": 14,
+			"myComment": 14
+		},
+		{
+			"myImg":"images/k3.jpg",
+			"myP1text":"Mozbii 触控吸色笔-4",
+			"myP2text":"能吸取65000种颜色-4",
+			"myprice":1515,
+			"myLike": 15,
+			"myComment": 15
+		},
+		{
+			"myImg":"images/k4.jpg",
+			"myP1text":"XPLORER 2 航拍飞行器-4",
+			"myP2text":"打在自动避障系统-4",
+			"myprice":1616,
+			"myLike": 16,
+			"myComment": 16
+		}
+		
+		
+	]
+}

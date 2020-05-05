@@ -1,0 +1,84 @@
+.mybox {
+  margin-top: 50px;
+}
+.mybox .mybox-top h5 {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 35px;
+  font-weight: normal;
+}
+.mybox .mybox-top p {
+  text-align: center;
+  color: #a3a3a3;
+}
+.mybox .mybox-top p a {
+  display: inline-block;
+  width: 150px;
+  padding: 5px 0;
+  cursor: pointer;
+  color: #ccc;
+}
+.mybox .mybox-top p .sapnActive {
+  color: red;
+  border-bottom: 3px solid red;
+}
+.mybox .mybox-bottom {
+  background: #f7f7f7;
+  padding: 10px 0;
+}
+.mybox .mybox-bottom ul {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.mybox .mybox-bottom ul li {
+  width: 228px;
+  margin-left: 20px;
+  border-radius: 5px;
+  background: #fff;
+  border: 1px solid #eaeceb;
+  position: relative;
+  margin-top: 20px;
+}
+.mybox .mybox-bottom ul li a {
+  display: block;
+}
+.mybox .mybox-bottom ul li a .myImg {
+  width: 100%;
+  height: 150px;
+  border-radius: 5px 5px 0 0;
+}
+.mybox .mybox-bottom ul li a p {
+  padding: 1px 0 1px 8px;
+}
+.mybox .mybox-bottom ul li a p:nth-child(2) {
+  font-size: 15px;
+  color: #483843;
+}
+.mybox .mybox-bottom ul li a p:nth-child(3),
+.mybox .mybox-bottom ul li a p:last-child {
+  color: #ccc;
+  font-size: 13px;
+}
+.mybox .mybox-bottom ul li a p:last-child {
+  padding: 15px 8px;
+}
+.mybox .mybox-bottom ul li a p:last-child span:first-child {
+  color: red;
+}
+.mybox .mybox-bottom ul li a p:last-child span:last-child {
+  float: right;
+}
+.mybox .mybox-bottom .load {
+  text-align: center;
+  margin-top: 40px;
+  color: red;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+.mybox .mybox-bottom .load img {
+  vertical-align: middle;
+  width: 12px;
+  cursor: pointer;
+}

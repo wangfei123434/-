@@ -1,0 +1,73 @@
+.mybox {
+  margin-top: 50px;
+}
+.mybox .mybox-top h5 {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 35px;
+  font-weight: normal;
+}
+.mybox .mybox-top p {
+  text-align: center;
+  color: #a3a3a3;
+}
+.mybox .mybox-top p a {
+  display: inline-block;
+  width: 150px;
+  padding: 5px 0;
+  cursor: pointer;
+  color: #ccc;
+}
+.mybox .mybox-top p .sapnActive {
+  color: red;
+  border-bottom: 3px solid red;
+}
+.mybox .mybox-bottom {
+  background: #f7f7f7;
+  padding: 10px 0;
+}
+.mybox .mybox-bottom .bagwhile {
+  background: #fff;
+  width: 1000px;
+  margin: 0 auto;
+  border: 1px solid #eaeaea;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.mybox .mybox-bottom .bagwhile p {
+  padding-top: 10px;
+}
+.mybox .mybox-bottom .bagwhile p span {
+  display: inline-block;
+  height: 20px;
+  width: 4px;
+  background: red;
+  margin-right: 20px;
+  vertical-align: sub;
+}
+.mybox .mybox-bottom .bagwhile .bagwhile-img,
+.mybox .mybox-bottom .bagwhile .bagwhile-text {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px 0;
+}
+.mybox .mybox-bottom .bagwhile .bagwhile-img li,
+.mybox .mybox-bottom .bagwhile .bagwhile-text li {
+  width: 16.666667%;
+  text-align: center;
+  color: #9ca09f;
+  font-size: 14px;
+}
+.mybox .mybox-bottom .bagwhile .bagwhile-img li a,
+.mybox .mybox-bottom .bagwhile .bagwhile-text li a {
+  display: block;
+  margin: 10px;
+}
+.mybox .mybox-bottom .bagwhile .bagwhile-img {
+  border-bottom: 1px dashed #9ca09f;
+}
+.mybox .mybox-bottom .bagwhile .bagwhile-text li a {
+  display: inline-block;
+  color: #9ca09f;
+  font-size: 14px;
+}

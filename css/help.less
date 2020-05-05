@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.myheader{
+    border-bottom: 1px solid #d0d0d0;
+    box-shadow:0px -1px 2px -1px gray inset;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 999;
+    ul{
+        display: flex;
+        width: 1000px;
+        height: 50px;
+        margin: 0 auto;
+        line-height: 50px;
+        position: relative;
+        li{
+            padding: 0 30px;
+            a{
+                display: block;
+                height: 50px;
+                color: #272940;
+            }
+            a:hover{
+                color: red;
+            }
+        }
+        li:first-child{
+            img{
+                height: 40px;
+                margin-top: 5px;
+            }
+        }
+        li:last-child{
+            position: absolute;
+            right: 0;
+            a{
+                display: inline;
+                img{
+                    vertical-align: middle;
+                }
+                img:hover{
+                    transform: scale(1.2)
+                }
+            }
+            button{
+                border: 1px solid red;
+                background: none;
+                border-radius: 5px;
+                padding: 3px 5px;
+                margin-left: 30px;
+                color: red;
+                outline: none;
+            }
+        }
+    }
+}
+//中间部分
+.mysection{
+    margin-top: 80px;
+    .box{
+        width: 1000px;
+        margin: 30px auto;
+        display: flex;
+        color: #3a656c;
+        div{
+            background: #f3f3f3;
+            padding: 30px;
+            border-radius: 3px;
+            h5{
+                border-bottom: 1px solid #d0d0d0;
+                font-size: 18px;
+                color: black;
+                padding: 5px 0;
+            }
+            dt{
+                color: #565253;
+                font-weight: bold;
+                font-size: 16px;
+                margin-top: 20px;
+            }
+            dd{
+                font-size: 15px;
+            }
+        }
+        .box-left{
+            width: 300px;
+            height: 220px;
+            dd{
+                text-indent: 1em;
+            }
+        }
+        .box-right{
+            // width: 680px;
+            margin-left: 20px;
+            dt{
+                margin-bottom:20px;
+            }
+        }
+    }
+}
+//底部
+.myfooter{
+    background: #505050;
+    color: #9f9f9f;
+    font-size: 14px;
+    ul{
+        width: 1000px;
+        margin: 0 auto;
+        display: flex;
+        padding: 30px 0;
+        li{
+            margin-right: 20px;
+            h5{
+                color: #fff;
+                font-size: 15px;
+                font-weight: 100;
+                margin-bottom: 20px;
+            }
+        }
+    }
+    .mycopy{
+        text-align: center;
+        padding: 20px 0;
+    }
+}

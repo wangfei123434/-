@@ -1,0 +1,388 @@
+{
+	"lists": [
+		{
+			"title":"生活",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_1.png",
+					"text": "空气净化器",
+					"imgnumber": 1
+				},
+				{
+					"img":"images/cat_2.png",
+					"text": "吸尘器",
+					"imgnumber": 2
+				},
+				{
+					"img":"images/cat_3.png",
+					"text": "扫地机器人",
+					"imgnumber": 3
+				},
+				{
+					"img":"images/cat_4.png",
+					"text": "电风扇",
+					"imgnumber": 4
+				},
+				{
+					"img":"images/cat_5.png",
+					"text": "净水壶",
+					"imgnumber": 5
+				},
+				{
+					"img":"images/cat_6.png",
+					"text": "电饭煲",
+					"imgnumber": 6
+				},
+				{
+					"img":"images/cat_7.png",
+					"text": "咖啡机",
+					"imgnumber": 7
+				},
+				{
+					"img":"images/cat_8.png",
+					"text": "原汁机",
+					"imgnumber": 8
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"电视",
+					"textnumber":1
+				},
+				{
+					"myaText":"空调",
+					"textnumber":2
+				},
+				{
+					"myaText":"洗衣机",
+					"textnumber":3
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":4
+				},
+				{
+					"myaText":"净水壶",
+					"textnumber":5
+				},
+				{
+					"myaText":"热水器",
+					"textnumber":6
+				},
+				{
+					"myaText":"咖啡机",
+					"textnumber":7
+				},
+				{
+					"myaText":"原汁机",
+					"textnumber":8
+				},
+				{
+					"myaText":"消毒/洗碗机",
+					"textnumber":9
+				},
+				{
+					"myaText":"豆浆机",
+					"textnumber":10
+				},
+				{
+					"myaText":"扫地机器人",
+					"textnumber":11
+				},
+				{
+					"myaText":"电风扇",
+					"textnumber":12
+				},
+				{
+					"myaText":"除湿机",
+					"textnumber":13
+				},
+				{
+					"myaText":"干燥机",
+					"textnumber":14
+				},
+				{
+					"myaText":"取暖器",
+					"textnumber":15
+				},
+				{
+					"myaText":"原汁机",
+					"textnumber":16
+				}
+			]
+		},
+		{
+			"title":"个人护理",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_9.png",
+					"text": "电动牙刷",
+					"imgnumber": 1
+				},
+				{
+					"img":"images/cat_10.png",
+					"text": "剃须刀",
+					"imgnumber": 2
+				},
+				{
+					"img":"images/cat_11.png",
+					"text": "按摩器",
+					"imgnumber": 3
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"冲牙器",
+					"textnumber":1
+				},
+				{
+					"myaText":"洁面仪",
+					"textnumber":2
+				},
+				{
+					"myaText":"蒸面器",
+					"textnumber":3
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":4
+				}
+			]
+		},
+		{
+			"title":"健康",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_1.png",
+					"text": "电动牙刷",
+					"imgnumber": 1
+				},
+				{
+					"img":"images/cat_2.png",
+					"text": "剃须刀",
+					"imgnumber": 2
+				},
+				{
+					"img":"images/cat_3.png",
+					"text": "按摩器",
+					"imgnumber": 3
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"冲牙器",
+					"textnumber":1
+				},
+				{
+					"myaText":"洁面仪",
+					"textnumber":2
+				},
+				{
+					"myaText":"蒸面器",
+					"textnumber":3
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":4
+				}
+			]
+		},
+		{
+			"title":"智能穿戴",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_4.png",
+					"text": "电动牙刷",
+					"imgnumber": 1
+				},
+				{
+					"img":"images/cat_5.png",
+					"text": "剃须刀",
+					"imgnumber": 2
+				},
+				{
+					"img":"images/cat_6.png",
+					"text": "按摩器",
+					"imgnumber": 3
+				},
+				{
+					"img":"images/cat_7.png",
+					"text": "电动牙刷",
+					"imgnumber": 4
+				},
+				{
+					"img":"images/cat_8.png",
+					"text": "剃须刀",
+					"imgnumber": 5
+				},
+				{
+					"img":"images/cat_9.png",
+					"text": "按摩器",
+					"imgnumber": 6
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"冲牙器",
+					"textnumber":1
+				},
+				{
+					"myaText":"洁面仪",
+					"textnumber":2
+				},
+				{
+					"myaText":"蒸面器",
+					"textnumber":3
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":4
+				}
+			]
+		},
+		{
+			"title":"出行",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_1.png",
+					"text": "电动牙刷",
+					"imgnumber": 1
+				},
+				{
+					"img":"images/cat_2.png",
+					"text": "剃须刀",
+					"imgnumber": 2
+				},
+				{
+					"img":"images/cat_3.png",
+					"text": "按摩器",
+					"imgnumber": 3
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"冲牙器",
+					"textnumber":1
+				},
+				{
+					"myaText":"洁面仪",
+					"textnumber":2
+				},
+				{
+					"myaText":"蒸面器",
+					"textnumber":3
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":4
+				}
+			]
+		},
+		{
+			"title":"运动户外",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_1.png",
+					"text": "电动牙刷",
+					"imgnumber": 1
+				},
+				{
+					"img":"images/cat_2.png",
+					"text": "剃须刀",
+					"imgnumber": 2
+				},
+				{
+					"img":"images/cat_3.png",
+					"text": "按摩器",
+					"imgnumber": 3
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"冲牙器",
+					"textnumber":1
+				},
+				{
+					"myaText":"洁面仪",
+					"textnumber":2
+				},
+				{
+					"myaText":"蒸面器",
+					"textnumber":3
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":4
+				}
+			]
+		},
+		{
+			"title":"摄影",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_1.png",
+					"text": "电动牙刷",
+					"imgnumber": 1
+				},
+				{
+					"img":"images/cat_2.png",
+					"text": "剃须刀",
+					"imgnumber": 2
+				},
+				{
+					"img":"images/cat_3.png",
+					"text": "按摩器",
+					"imgnumber": 3
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"冲牙器",
+					"textnumber":1
+				},
+				{
+					"myaText":"洁面仪",
+					"textnumber":2
+				},
+				{
+					"myaText":"蒸面器",
+					"textnumber":3
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":4
+				}
+			]
+		},
+		{
+			"title":"手机",
+			"bagwhileImg":[
+				{
+					"img":"images/cat_1.png",
+					"text": "电动牙刷",
+					"imgnumber": 1
+				}
+			],
+			"bagwhileText":[
+				{
+					"myaText":"冲牙器",
+					"textnumber":1
+				},
+				{
+					"myaText":"洁面仪",
+					"textnumber":1
+				},
+				{
+					"myaText":"蒸面器",
+					"textnumber":1
+				},
+				{
+					"myaText":"加湿器",
+					"textnumber":1
+				}
+			]
+		}
+		
+	]
+}
+
